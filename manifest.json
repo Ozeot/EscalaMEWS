@@ -1,0 +1,20 @@
+{
+  "name": "Escala MEWS",
+  "short_name": "MEWS",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1e40af",
+  "icons": [
+    {
+      "src": "iconmews.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "iconmews.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
